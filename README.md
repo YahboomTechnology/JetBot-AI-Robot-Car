@@ -13,9 +13,6 @@ Jetbot is a multi-functional AI smart robot car based on NVIDIA JETSON NANO that
 
 * High-brightness RGB light strips.
 
-# Required Best Buy Links
-[By on Yahboom website](https://category.yahboom.net/products/jetbot)
-
 
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
